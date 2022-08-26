@@ -1,0 +1,21 @@
+{
+  "name": "vite-project",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1",
+    "vite": "^2.9.9",
+    "vite-plugin-pwa": "^0.12.3"
+  },
+  "dependencies": {
+    "idb": "^7.0.2",
+    "toastify-js": "^1.12.0",
+    "wmr": "^3.7.2",
+    "workbox-precaching": "^6.5.4"
+  }
+}

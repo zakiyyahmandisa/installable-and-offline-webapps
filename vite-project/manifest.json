@@ -1,0 +1,37 @@
+{
+    "name": "Youtube Video",
+    "short_name": "Video",
+    "start_url": "/?home=true",
+    "icons": [
+        {
+          "src": "icons/manifest-icon-192.maskable.png",
+          "sizes": "192x192",
+          "type": "image/png",
+          "purpose": "any"
+        },
+        {
+          "src": "icons/manifest-icon-192.maskable.png",
+          "sizes": "192x192",
+          "type": "image/png",
+          "purpose": "maskable"
+        },
+        {
+          "src": "icons/manifest-icon-512.maskable.png",
+          "sizes": "512x512",
+          "type": "image/png",
+          "purpose": "any"
+        },
+        {
+          "src": "icons/manifest-icon-512.maskable.png",
+          "sizes": "512x512",
+          "type": "image/png",
+          "purpose": "maskable"
+        }
+      ],
+    "theme_color": "#b30000",
+    "background_color": "#ffbfbf",
+    "display": "fullscreen", 
+    "orientation": "portrait",
+    "description": "A PWA Comment App",
+    "categories": ["productivity", "utilities"]
+}
